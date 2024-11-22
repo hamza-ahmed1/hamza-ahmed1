@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated Frontend Developer and Software Engineer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://source.unsplash.com/1600x400/?coding,technology" alt="Banner Image" />
+  <img src="[https://source.unsplash.com/1600x400/?coding,technology](https://www.canva.com/design/DAGXMhTVckk/h74ooejj_E_iNjY-C6yNTg/view?utm_content=DAGXMhTVckk&utm_campaign=designshare&utm_medium=link&utm_source=editor)" alt="Banner Image" />
 </p>
 
 <p align="left">
