@@ -25,7 +25,9 @@
 
 <h3 align="left">📹 Showcase of My Work</h3>
 <div align="center">
-<iframe width="697" height="377" src="https://www.youtube.com/embed/3oWI-5ERokU" title="FAST APP Blog: Your Ultimate Resource for Web App Insights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### 📹 Showcase of My Work
+[![Watch the video](https://img.youtube.com/vi/3oWI-5ERokU/0.jpg)](https://www.youtube.com/watch?v=3oWI-5ERokU)
+
 </div>
 
 ---
