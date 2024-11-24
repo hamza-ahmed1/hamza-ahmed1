@@ -20,8 +20,7 @@
 ### 🌟 Showcase of My Work  
 #### 🎥 Video Overview  
 Check out a quick overview of my recent work on Full Stack App (FASTXBLOG):  
-
-![Uploading FAST_APP_Blog_Your_Ultimate_Resource_for_Web_App_Insights (1).gif…]()
+![FAST_APP_Blog_Your_Ultimate_Resource_for_Web_App_Insights (1)](https://github.com/user-attachments/assets/6af408d8-8ffe-4789-8897-87c33f0edb79)
 
 
 
