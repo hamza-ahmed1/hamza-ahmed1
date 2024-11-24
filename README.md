@@ -59,6 +59,6 @@ Check out a quick overview of my recent work on Full Stack App (FASTXBLOG):
 ---
 
 ### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-ahmed1&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/langs?username=hamza-ahmed1&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-ahmed1&show_icons=true&locale=en" alt="GitHub Stats" /></p>
