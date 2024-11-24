@@ -1,9 +1,8 @@
 <h1 align="center">Welcome! 👋 I'm Hamza Ahmed Khan</h1>
 <h3 align="center">A dedicated Frontend Developer and Software Engineer from Pakistan</h3>
 
-<p align="center">
 ![hamza_banner](https://github.com/user-attachments/assets/79f4a383-f767-422b-aaec-01191fba2ea4)
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hamza-ahmed1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
