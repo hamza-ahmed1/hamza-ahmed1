@@ -20,9 +20,9 @@
 ### 🌟 Showcase of My Work  
 #### 🎥 Video Overview  
 Check out a quick overview of my recent work on Full Stack App (FASTXBLOG):  
-![Uploading FAST_APP_Blog_Your_Ultimate_Resource_for_Web_App_Insights (1).gif…]() 
+![FAST_APP_Blog_Your_Ultimate_Resource_for_Web_App_Insights](https://github.com/username/repository-name/path/to/image.gif)
 
----
+
 
 ### 💼 Skills  
 #### Frontend Development  
