@@ -19,10 +19,8 @@
 
 ### 🌟 Showcase of My Work  
 #### 🎥 Video Overview  
-Check out a quick overview of my recent work:  
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Work Demo" width="600" />
-</p>  
+Check out a quick overview of my recent work on Full Stack App (FASTXBLOG):  
+![Uploading FAST_APP_Blog_Your_Ultimate_Resource_for_Web_App_Insights (1).gif…]() 
 
 ---
 
