@@ -10,10 +10,10 @@
 ### 🚀 About Me  
 - 🔭 Currently working as **Software Engineer at MIF**, focusing on **Learning Management Systems**.  
 - 🌱 Expanding my knowledge in **DevOps and AWS**.  
-- 👨‍💻 Check out all my projects: [Project Portfolio](examplelink).  
+- 👨‍💻 Check out all my projects: [Project Portfolio](https://hamzadevs.netlify.app).  
 - 💬 Let's talk about **Next.js, React, Node.js**.  
 - 📫 Reach out at **hamza.khan@mif.edu.pk**.  
-- 📄 Learn more about my experience: [My Resume](examplelink).  
+- 📄 Learn more about my experience: [My Resume](https://hamzadevs.netlify.app).  
 
 ---
 
